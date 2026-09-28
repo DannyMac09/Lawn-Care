@@ -1,0 +1,69 @@
+name: Empire Agents
+
+# The always-on crew for all 5 stores: scheduled Gemini agents that write
+# Shorts scripts, trend scans, SEO posts, and marketing emails, then commit
+# the outputs back to this repo. No server required - GitHub Actions free
+# cron only.
+#
+# Stores: groundskeeper-secrets, bucket-golf-hq, gadget-lab,
+#         campfire-secrets, actually-useful-ai
+# Each store's agents live in stores/<slug>/agents/ and write to
+# stores/<slug>/agents/output/.
+
+on:
+  schedule:
+    # Daily 07:00 ET (11:00 UTC during daylight time; 06:00 ET in standard time)
+    - cron: '0 11 * * *'
+    # Weekly Monday 08:00 ET (12:00 UTC during daylight time; 07:00 ET standard)
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+    inputs:
+      run_weekly:
+        description: 'Also run the weekly agents (SEO post + email)'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  agents:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run agents for all stores
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          FAILED=0
+          for store in groundskeeper-secrets bucket-golf-hq gadget-lab campfire-secrets actually-useful-ai; do
+            echo "=== $store ==="
+            cd "stores/$store"
+            if [ "${{ github.event.schedule }}" = "0 11 * * *" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+              python agents/trend_agent.py || FAILED=1
+              python agents/content_agent.py || FAILED=1
+            fi
+            if [ "${{ github.event.schedule }}" = "0 12 * * 1" ] || { [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.run_weekly }}" = "true" ]; }; then
+              python agents/seo_agent.py || FAILED=1
+              python agents/email_agent.py || FAILED=1
+            fi
+            cd ../..
+          done
+          exit $FAILED
+
+      - name: Commit and push new outputs
+        if: always()
+        run: |
+          git config user.name "empire-bot"
+          git config user.email "empire-bot@users.noreply.github.com"
+          git add 'stores/*/agents/output'
+          git diff --cached --quiet || git commit -m "Agent outputs $(date -u +%Y-%m-%d)"
+          git push
