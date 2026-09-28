@@ -1,0 +1,58 @@
+name: Bucket Golf HQ Agents
+
+# The always-on crew: scheduled Gemini agents that write Shorts scripts,
+# trend scans, SEO posts, and marketing emails, then commit the outputs
+# back to this repo. No server required - GitHub Actions free cron only.
+
+on:
+  schedule:
+    # Daily 07:00 ET (11:00 UTC during daylight time; 06:00 ET in standard time)
+    - cron: '0 11 * * *'
+    # Weekly Monday 08:00 ET (12:00 UTC during daylight time; 07:00 ET in standard time)
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+    inputs:
+      run_weekly:
+        description: 'Also run the weekly agents (SEO post + email)'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  agents:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run daily agents (trend scan + Shorts scripts)
+        if: github.event.schedule == '0 11 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python stores/bucket-golf-hq/agents/trend_agent.py
+          python stores/bucket-golf-hq/agents/content_agent.py
+
+      - name: Run weekly agents (SEO post + marketing email)
+        if: github.event.schedule == '0 12 * * 1' || (github.event_name == 'workflow_dispatch' && inputs.run_weekly)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python stores/bucket-golf-hq/agents/seo_agent.py
+          python stores/bucket-golf-hq/agents/email_agent.py
+
+      - name: Commit and push new outputs
+        run: |
+          git config user.name "bucket-golf-bot"
+          git config user.email "bucket-golf-bot@users.noreply.github.com"
+          git add stores/bucket-golf-hq/agents/output
+          git diff --cached --quiet || git commit -m "Bucket Golf HQ agent outputs $(date -u +%Y-%m-%d)"
+          git push
