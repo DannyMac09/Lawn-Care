@@ -33,4 +33,4 @@ Shorts + blog articles pull traffic → visitors land on the store → the **cha
 - Stripe stays in **test mode** until DannyMac explicitly approves going live.
 - Each chat only recommends products from its own catalog — it never invents products.
 - No credentials in code, ever. Env vars only.
-<!-- deploy-trigger 2026-09-29 06:54 -->
+<!-- deploy-trigger 2026-09-29 07:00 -->
