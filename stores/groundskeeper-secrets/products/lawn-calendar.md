@@ -53,11 +53,11 @@ Fall is the most important season of the year for your lawn. Spring is second. E
 
 You don't need a garage full of gear. These are the basics that cover 95% of this calendar:
 
-- **Mower with a sharp blade.** Dull blades tear grass and invite disease. Sharpen at least twice a season — [AFFILIATE: mower blade sharpener kit].
-- **Broadcast spreader.** For seed, fertilizer, and pre-emergent — even application beats hand-tossing every time. [AFFILIATE: broadcast spreader].
-- **Soil thermometer.** A $10 probe takes the guesswork out of seeding and pre-emergent timing. [AFFILIATE: soil thermometer].
-- **Rain gauge.** If you don't measure, you're guessing. [AFFILIATE: rain gauge].
-- **Soil test kit.** Test every 2–3 years through your county extension office — it tells you exactly what your soil needs instead of guessing. [AFFILIATE: soil test kit].
+- **Mower with a sharp blade.** Dull blades tear grass and invite disease. Sharpen at least twice a season — mower blade sharpener kit.
+- **Broadcast spreader.** For seed, fertilizer, and pre-emergent — even application beats hand-tossing every time. [Scotts Turf Builder EdgeGuard Mini Broadcast Spreader](https://www.amazon.com/dp/B002YPS1KK?tag=groundskeep09-20).
+- **Soil thermometer.** A $10 probe takes the guesswork out of seeding and pre-emergent timing. soil thermometer.
+- **Rain gauge.** If you don't measure, you're guessing. rain gauge.
+- **Soil test kit.** Test every 2–3 years through your county extension office — it tells you exactly what your soil needs instead of guessing. [MySoil Soil Test Kit](https://www.amazon.com/dp/B084TSNR79?tag=groundskeep09-20).
 - **Garden rake and leaf rake.** Cleanup, dethatch checks, settling seed.
 
 Buy good versions of the tools you'll use for years; rent the big machines (aerators, dethatchers) you'll use once a year.
@@ -74,7 +74,7 @@ The lawn is asleep under frost or snow. Your job: think, not do.
 
 **Feeding:** None.
 
-**Seeding:** None — but this is a great month to order a [AFFILIATE: soil test kit] from your county extension office so it's ready for spring.
+**Seeding:** None — but this is a great month to order a [MySoil Soil Test Kit](https://www.amazon.com/dp/B084TSNR79?tag=groundskeep09-20) from your county extension office so it's ready for spring.
 
 **Weeds & pests:** None.
 
@@ -83,7 +83,7 @@ The lawn is asleep under frost or snow. Your job: think, not do.
 **Checklist:**
 - [ ] Walk the property and list problem areas
 - [ ] Order a soil test kit
-- [ ] Service the mower: change oil, replace spark plug and air filter, sharpen or replace the blade ([AFFILIATE: mower blade sharpener kit])
+- [ ] Service the mower: change oil, replace spark plug and air filter, sharpen or replace the blade (mower blade sharpener kit)
 - [ ] Stay off frozen grass
 
 ---
@@ -124,7 +124,7 @@ The lawn stirs. Clean-up month.
 
 **Seeding:** Don't. Spring seeding fights crabgrass all season and the seedlings face summer with baby roots. (Exception: small emergency patches — but know it's an uphill battle.)
 
-**Weeds & pests:** Pre-emergent crabgrass preventer goes down when soil temperatures hit about 55°F — traditionally when forsythia bushes bloom. That's your signal. Apply [AFFILIATE: pre-emergent crabgrass preventer] per the bag rate. Miss this window and crabgrass owns your summer.
+**Weeds & pests:** Pre-emergent crabgrass preventer goes down when soil temperatures hit about 55°F — traditionally when forsythia bushes bloom. That's your signal. Apply pre-emergent crabgrass preventer per the bag rate. Miss this window and crabgrass owns your summer.
 
 **Watering:** Usually unnecessary — spring rain handles it.
 
@@ -175,7 +175,7 @@ Late spring. The lawn should be looking its best right now — enjoy it.
 
 **Weeds & pests:** If you split your pre-emergent into two applications, the second half goes down now (check the product label for split-application timing). Watch for dollar spot and other fungal issues as humidity climbs; proper mowing height and morning watering prevent most of it.
 
-**Watering:** 1 inch per week if rain falls short. Set out a [AFFILIATE: rain gauge] and stop guessing.
+**Watering:** 1 inch per week if rain falls short. Set out a rain gauge and stop guessing.
 
 **Checklist:**
 - [ ] Mow 3–3.5", leave clippings
@@ -197,7 +197,7 @@ The pivot month. What you do now decides whether August is green or brown.
 
 **Seeding:** No.
 
-**Weeds & pests:** Grub preventative window: mid-June through mid-July is the time for a preventative [AFFILIATE: grub control] application. Japanese beetles are laying eggs now; the grubs hatch in late summer and eat roots. One application now saves a destroyed lawn in September.
+**Weeds & pests:** Grub preventative window: mid-June through mid-July is the time for a preventative grub control application. Japanese beetles are laying eggs now; the grubs hatch in late summer and eat roots. One application now saves a destroyed lawn in September.
 
 **Watering:** Deep and infrequent — 1 to 1.5 inches per week, in one or two morning sessions. Shallow daily sprinkling trains roots to stay at the surface where heat kills them.
 
@@ -235,7 +235,7 @@ The toughest month. Your job is to keep the lawn alive, not to make it pretty.
 
 The comeback starts now. Everything this month points at September.
 
-**Main job:** Prep for overseeding. Order your [AFFILIATE: tall fescue grass seed blend] now if you haven't. Get a soil test if you skipped spring. Line up a [AFFILIATE: core aerator rental] for early September; they sell out.
+**Main job:** Prep for overseeding. Order your [Scotts Turf Builder Grass Seed Sun & Shade Mix](https://www.amazon.com/dp/B0B9PWY4YN?tag=groundskeep09-20) now if you haven't. Get a soil test if you skipped spring. Line up a core aerator rental for early September; they sell out.
 
 **Mowing:** Keep at 3.5" through the heat, then drop to 3" in late August as nights cool.
 

@@ -29,7 +29,7 @@ You do not need a trailer full of gear to cook great food at camp. A camp kitche
 Most trips run on **two heat sources**, and you want both:
 
 1. **The campfire.** For direct-heat cooking: burgers, dogs, foil packets, Dutch oven, roasting anything on a stick. Best for evening cooking when you have time to build a proper fire and let it burn down to coals.
-2. **A camp stove.** A [AFFILIATE: two-burner camp stove] runs off those green 1-lb propane canisters (or a 20-lb tank with an adapter hose if you're car camping for a week). This is your fast, controlled, no-fuss heat: coffee at 6 AM, bacon and eggs, boiling water for pasta, anything you want done quickly in the morning when nobody wants to build a fire first.
+2. **A camp stove.** A [Coleman Classic Propane Stove](https://www.amazon.com/dp/B00005OU9D?tag=groundskeep09-20) runs off those green 1-lb propane canisters (or a 20-lb tank with an adapter hose if you're car camping for a week). This is your fast, controlled, no-fuss heat: coffee at 6 AM, bacon and eggs, boiling water for pasta, anything you want done quickly in the morning when nobody wants to build a fire first.
 
 The campfire is flavor and fun. The stove is speed and reliability. Plan meals around both — breakfast and lunch on the stove, dinner over the fire — and you'll never be stuck waiting on coals for coffee.
 
@@ -41,7 +41,7 @@ Three pieces of cookware handle 95% of camp meals:
 * **A 6-quart Dutch oven with legs and a lipped lid.** Stews, roasts, chili, cobbler, bread — anything that needs to cook "all day" while you fish.
 * **A 4-quart pot with a lid.** Boiling water, pasta, corn, soups. Lightweight aluminum or stainless.
 
-Plus: one [AFFILIATE: long-handled camp tongs], one [AFFILIATE: sturdy camp spatula], a [AFFILIATE: pair of leather fire gloves], a [AFFILIATE: digital meat thermometer], a [AFFILIATE: folding grill grate], and a [AFFILIATE: set of campfire forks/roasting sticks]. Add a [AFFILIATE: campfire fire-starter kit] (cotton balls smeared with petroleum jelly in a zip bag work great and cost pennies).
+Plus: one long-handled camp tongs, one sturdy camp spatula, a pair of leather fire gloves, a digital meat thermometer, a folding grill grate, and a set of campfire forks/roasting sticks. Add a [UCO Stormproof Match Kit](https://www.amazon.com/dp/B004PIBWW8?tag=groundskeep09-20) (cotton balls smeared with petroleum jelly in a zip bag work great and cost pennies).
 
 ### The Washing Station
 
@@ -74,7 +74,7 @@ For most real campfire cooking, you cook on coals, not flames. Build a good fire
 
 ### Method 3: The Grill Grate
 
-Lay a [AFFILIATE: folding grill grate] across the fire ring, 4 to 6 inches above the coal bed. Now you have a grill. This is your burger, steak, chicken, and corn-on-the-cob method.
+Lay a folding grill grate across the fire ring, 4 to 6 inches above the coal bed. Now you have a grill. This is your burger, steak, chicken, and corn-on-the-cob method.
 
 * **Burgers (1/3 lb patties):** 4 to 5 minutes per side over high-medium coals for medium. Internal temperature **160°F** for ground beef — no pink, since camp is no place for foodborne illness.
 * **Steaks (1 inch thick):** 4 to 5 minutes per side for medium-rare (145°F internal), 6 to 7 for medium. Let them rest 5 minutes before cutting.
@@ -131,7 +131,7 @@ The camp stove is your weekday-morning cook: fast, controllable, and doesn't req
 * **Camp tacos:** Brown 1 lb ground beef with a packet of taco seasoning. Serve on tortillas with shredded cheese, salsa packets, and diced onion. Total: **~15 minutes.**
 * **Pancakes:** Use a just-add-water mix. The trick is a hot-but-not-scorching skillet — if butter smokes instantly, it's too hot. Pour 1/4-cup circles, flip when bubbles pop on the surface (about 2 minutes), cook 1 more minute. Keep finished ones warm on a plate under a dish towel while you make the rest.
 
-**Coffee that doesn't taste like an ashtray:** The easiest good camp coffee is a [AFFILIATE: campfire percolator or French press] — boil water, steep, press, done. If you use a percolator, never let it perk more than 7 or 8 minutes or it turns bitter. French press: coarse grounds, 4 minutes steep, press slowly. Instant coffee is fine too — no shame, and it weighs nothing.
+**Coffee that doesn't taste like an ashtray:** The easiest good camp coffee is a campfire percolator or French press — boil water, steep, press, done. If you use a percolator, never let it perk more than 7 or 8 minutes or it turns bitter. French press: coarse grounds, 4 minutes steep, press slowly. Instant coffee is fine too — no shame, and it weighs nothing.
 
 
 ---
@@ -307,7 +307,7 @@ Nobody remembers the trip where the food was fine. Everybody remembers the trip 
 
 ### Cooler Rule #1: Keep It Below 40°F
 
-Bacteria that cause food poisoning multiply fast between 40°F and 140°F — food-safety folks call this the **danger zone**. Your cooler's job is to stay below 40°F the whole trip. A [AFFILIATE: quality hard-sided cooler] with a good seal will do it; a cheap thin one won't.
+Bacteria that cause food poisoning multiply fast between 40°F and 140°F — food-safety folks call this the **danger zone**. Your cooler's job is to stay below 40°F the whole trip. A quality hard-sided cooler with a good seal will do it; a cheap thin one won't.
 
 **How to pack a cooler right:**
 
@@ -316,7 +316,7 @@ Bacteria that cause food poisoning multiply fast between 40°F and 140°F — fo
 * **Freeze what you can.** Freeze meat solid before the trip — it acts as an ice pack for the first day or two and thaws safely in the cooler (never on the picnic table).
 * **Keep it shut.** Every time you open the cooler you dump cold air out. Put drinks in a SEPARATE cheap cooler — drinks get opened constantly, food shouldn't.
 * **Drain meltwater daily** and add ice as needed. Food sitting in a pool of meltwater gets soggy and warms faster.
-* **Two thermometers, zero guessing.** Put a [AFFILIATE: small cooler thermometer] inside the cooler and keep a [AFFILIATE: digital meat thermometer] for cooking. If the cooler reads above 40°F for more than a couple of hours, perishables (meat, dairy, eggs) are suspect — when in doubt, throw it out.
+* **Two thermometers, zero guessing.** Put a small cooler thermometer inside the cooler and keep a digital meat thermometer for cooking. If the cooler reads above 40°F for more than a couple of hours, perishables (meat, dairy, eggs) are suspect — when in doubt, throw it out.
 
 ### The 2-Hour Rule
 
@@ -332,7 +332,7 @@ Raw meat juice on your cutting board, knife, or hands will contaminate everythin
 
 This applies anywhere bears live — and in most campgrounds, raccoons and mice are the more common thieves.
 
-* **Never store food in your tent.** Not a granola bar, not a mint. Food smells go in the bear box, the car trunk, or a [AFFILIATE: bear-resistant canister] — never where you sleep.
+* **Never store food in your tent.** Not a granola bar, not a mint. Food smells go in the bear box, the car trunk, or a bear-resistant canister — never where you sleep.
 * **Cook and eat away from the tent.** 100 yards is the textbook number; at a developed campground, just cook at the fire ring and store food at the opposite end of the site from where you sleep.
 * **Use the bear boxes.** Many campgrounds provide metal bear-proof food lockers. Use them. All food, all coolers, all scented items (toothpaste, sunscreen, lip balm — bears don't care what's in it, they care that it smells).
 * **Clean up completely after every meal.** Wash dishes, wipe the table, pick up every crumb. A clean camp is a boring camp to a bear, and boring is exactly what you want.

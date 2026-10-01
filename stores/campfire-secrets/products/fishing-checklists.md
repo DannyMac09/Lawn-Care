@@ -25,7 +25,7 @@ Walk into a tackle shop and you'll see a wall of rods that all look the same. He
 
 ### The One Combo That Covers Almost Everything
 
-If you own one setup, make it a **medium-power, 6'6" to 7' spinning rod** with a **2500-size spinning reel**. This handles bass, panfish, catfish, trout, and walleye without breaking a sweat. A [AFFILIATE: medium spinning rod and reel combo] is the best money a beginner can spend — one rod, every common freshwater fish.
+If you own one setup, make it a **medium-power, 6'6" to 7' spinning rod** with a **2500-size spinning reel**. This handles bass, panfish, catfish, trout, and walleye without breaking a sweat. A medium spinning rod and reel combo is the best money a beginner can spend — one rod, every common freshwater fish.
 
 ### Rod Vocabulary (60 Seconds)
 
@@ -45,7 +45,7 @@ If you own one setup, make it a **medium-power, 6'6" to 7' spinning rod** with a
 * **Braided line:** Thin, strong, no stretch — great sensitivity. But it's visible in clear water and harder to knot well. Tie a 3-foot mono or fluorocarbon leader to the end with a double uni knot if you use it.
 * **Fluorocarbon:** Nearly invisible underwater, sinks faster. Good as a leader for spooky fish in clear water. Stiffer and pricier than mono — overkill as a full spool for most people.
 
-**Pre-trip line check:** Run the last 2 feet of line through your fingers. If it feels nicked, rough, or curly, cut it off and retie. Old line is the #1 cause of lost fish — a season-old spool of mono that's been baking in the garage has lost real strength. When in doubt, respool: [AFFILIATE: 8-lb monofilament line].
+**Pre-trip line check:** Run the last 2 feet of line through your fingers. If it feels nicked, rough, or curly, cut it off and retie. Old line is the #1 cause of lost fish — a season-old spool of mono that's been baking in the garage has lost real strength. When in doubt, respool: 8-lb monofilament line.
 
 ### The Checklist
 
@@ -57,7 +57,7 @@ If you own one setup, make it a **medium-power, 6'6" to 7' spinning rod** with a
 - [ ] Pliers or multitool (hook removal, crimping)
 - [ ] Line clippers or nail clippers
 - [ ] Tape measure or ruler (for length limits)
-- [ ] Landing net (a [AFFILIATE: rubber-mesh landing net] is gentler on fish than knotted nylon)
+- [ ] Landing net (a rubber-mesh landing net is gentler on fish than knotted nylon)
 - [ ] Stringer or livewell/basket if keeping fish
 
 ---
@@ -75,7 +75,7 @@ You don't need a wall of lures. For each of the three most common freshwater tar
 - [ ] Swivels — size 10 barrel swivels (stop line twist)
 - [ ] Bobber stops (if you ever fish deeper than your rod is long)
 - [ ] Live bait container + aerator if bringing minnows
-- [ ] Scent/attractant (optional — a [AFFILIATE: garlic or shad scent spray] helps on slow days)
+- [ ] Scent/attractant (optional — a garlic or shad scent spray helps on slow days)
 
 ### Bass
 
@@ -111,7 +111,7 @@ Catfish hunt by smell, mostly at night and in murky water. Big hooks, stink bait
 
 ### How to Pack the Box
 
-Keep it simple: one tray per target, hooks and terminal tackle in a separate small box so you're not digging. Every trip, spend 5 minutes before you leave doing the **tackle audit**: check that hooks are sharp (drag the point across your thumbnail — if it digs in, it's sharp; if it slides, replace it), replace rusted hooks, and restock whatever you lost last time. A [AFFILIATE: compartment tackle box] with adjustable dividers keeps it all organized.
+Keep it simple: one tray per target, hooks and terminal tackle in a separate small box so you're not digging. Every trip, spend 5 minutes before you leave doing the **tackle audit**: check that hooks are sharp (drag the point across your thumbnail — if it digs in, it's sharp; if it slides, replace it), replace rusted hooks, and restock whatever you lost last time. A compartment tackle box with adjustable dividers keeps it all organized.
 
 ---
 
@@ -144,7 +144,7 @@ Fishing is safe until it isn't. Water, hooks, sun, and weather are the four thin
 
 ### On the Water
 
-- [ ] **Life jackets (PFDs)** — one per person, worn (not just aboard) by kids and weak swimmers. In a boat or kayak, everyone wears one, no exceptions. A [AFFILIATE: comfortable fishing life vest] is the difference between wearing it and "forgetting" it.
+- [ ] **Life jackets (PFDs)** — one per person, worn (not just aboard) by kids and weak swimmers. In a boat or kayak, everyone wears one, no exceptions. A comfortable fishing life vest is the difference between wearing it and "forgetting" it.
 - [ ] **Tell someone your plan.** Where you're going, when you expect to be back. If you're going alone, this is non-negotiable — text a person, not just a vague "going fishing."
 - [ ] **Check the weather before AND during.** Storms build fast on the water. If you hear thunder, you're already too late getting off — head in at the first rumble. Lightning + open water + graphite rods is a combination you never want to test.
 - [ ] **Wading safety:** Wear a wading belt, shuffle your feet (don't step blindly), use a wading staff in current, and never wade deeper than mid-thigh in moving water. Felt soles or cleats on slippery rock.
@@ -152,7 +152,7 @@ Fishing is safe until it isn't. Water, hooks, sun, and weather are the four thin
 
 ### Hooks, Sun, and Bugs
 
-- [ ] **First aid kit** — at minimum: bandages, antiseptic wipes, tweezers (for hook barbs and ticks), Benadryl, pain reliever, and any personal meds. A [AFFILIATE: compact waterproof first aid kit] lives in the tackle bag permanently.
+- [ ] **First aid kit** — at minimum: bandages, antiseptic wipes, tweezers (for hook barbs and ticks), Benadryl, pain reliever, and any personal meds. A compact waterproof first aid kit lives in the tackle bag permanently.
 - [ ] **Hook removal know-how:** Push the hook through, snip the barb with pliers, back it out. For a deeply embedded hook or anything near an eye or joint — leave it and get medical help. Pliers and side-cutters in the bag, always.
 - [ ] **Sunscreen and a hat.** Water reflects sun from below — you burn faster fishing than hiking. Reapply every 2 hours. Polarized sunglasses aren't just for comfort: they cut surface glare so you can actually see fish and structure.
 - [ ] **Bug spray.** Ticks near the bank, mosquitoes at dusk. Check for ticks after the trip — all of you, including the dog.

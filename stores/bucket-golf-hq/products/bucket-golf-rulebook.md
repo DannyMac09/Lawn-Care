@@ -33,9 +33,9 @@ The beauty of bucket golf is that you probably own half of this already.
 
 **Buckets.** One 5-gallon bucket per hole. The classic orange or white hardware-store bucket is the standard — it's the right size (about a foot across the mouth), it's nearly indestructible, and it makes a deeply satisfying *THONK* when a ball rattles in. For a 9-hole course, you need nine. If you're building a course on the cheap, ask around: somebody's garage has a stack of these.
 
-**Flagsticks.** One per bucket. A flagstick is just a pole — 3 to 4 feet tall — stuck in the bucket so you can actually see your target from the tee. A wooden dowel, a length of PVC pipe, or a cheap driveway marker works fine. Tie a scrap of bright fabric or a bandana to the top as your flag. If you want the real look, grab a [AFFILIATE: bucket golf flagstick] — but a dowel and a red bandana play exactly the same.
+**Flagsticks.** One per bucket. A flagstick is just a pole — 3 to 4 feet tall — stuck in the bucket so you can actually see your target from the tee. A wooden dowel, a length of PVC pipe, or a cheap driveway marker works fine. Tie a scrap of bright fabric or a bandana to the top as your flag. If you want the real look, grab a bucket golf flagstick — but a dowel and a red bandana play exactly the same.
 
-**Balls.** Regular golf balls are the standard, and they fly true. But if your course is tight — neighbors close by, kids running around — use foam practice balls instead. They fly about half as far, they can't break anything, and a foam ball rattling into a bucket sounds just as good. A 2-pack per player is plenty; balls do get lost in bushes. Pick up some [AFFILIATE: foam practice golf balls] if your yard is on the cozy side.
+**Balls.** Regular golf balls are the standard, and they fly true. But if your course is tight — neighbors close by, kids running around — use foam practice balls instead. They fly about half as far, they can't break anything, and a foam ball rattling into a bucket sounds just as good. A 2-pack per player is plenty; balls do get lost in bushes. Pick up some foam practice golf balls if your yard is on the cozy side.
 
 **Clubs.** Here's the golden rule of bucket golf gear: **one club per player, for the whole round.** A pitching wedge or a high iron (a 9-iron or an 8-iron) is the perfect bucket golf club — enough loft to get the ball up and down quickly, enough control to aim at something a foot wide. Most players default to a wedge, and most house rules require it (see the one-club rule in Chapter 6). If your group has more players than clubs, thrift stores and garage sales are full of lone wedges for five bucks. That's not a compromise — that's the official equipment supplier of bucket golf.
 
@@ -244,7 +244,7 @@ No course needed — just one bucket. Players take turns chipping from an agreed
 
 ### Night Golf
 
-Same game, after dark. Drop a glow stick in each bucket, use [AFFILIATE: glow-in-the-dark golf balls] or wrap balls in reflective tape, and light the tee boxes with lanterns. Everything is harder and funnier at night. Mandatory: all the safety rules in Chapter 7, doubled.
+Same game, after dark. Drop a glow stick in each bucket, use glow-in-the-dark golf balls or wrap balls in reflective tape, and light the tee boxes with lanterns. Everything is harder and funnier at night. Mandatory: all the safety rules in Chapter 7, doubled.
 
 ---
 

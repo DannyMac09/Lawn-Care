@@ -183,7 +183,7 @@ Lose once, drop to the losers' bracket. Lose twice, you're out. Nobody's season 
 ### Bracket Tips
 
 * **Byes:** with 5–7 players in single elim, give the top seeds byes into the semifinals rather than playing awkward play-in games. With 6 players: seeds 1 and 2 get byes; 3v6 and 4v5 play quarterfinals.
-* **Post it big.** A [AFFILIATE: dry-erase tournament bracket board] on an easel at the course beats a phone screen. Update it in thick marker as matches finish. People will photograph it.
+* **Post it big.** A dry-erase tournament bracket board on an easel at the course beats a phone screen. Update it in thick marker as matches finish. People will photograph it.
 * **The commissioner's call is final** on all bracket disputes — seeding errors, no-shows (a no-show forfeits; their opponent advances), and weather delays.
 
 ---
@@ -233,7 +233,7 @@ On a standard sheet, turn it landscape. You'll fit 8–10 player rows comfortabl
 * **Rotating courses:** write the course name and date at the top of every card, always. When handicaps get recomputed, the commissioner needs to know which par each round was played against.
 * **Keep every card.** The commissioner files them — a shoebox works. They're the official record for handicaps, disputes, and end-of-season awards (most birdies, lowest round, biggest comeback).
 
-Want to skip the ruler? Grab a pad of [AFFILIATE: golf scorecard pads] and write HDCP and NET columns in the margins — close enough for league play.
+Want to skip the ruler? Grab a pad of golf scorecard pads and write HDCP and NET columns in the margins — close enough for league play.
 
 ---
 
@@ -298,7 +298,7 @@ Any tied match or tied standings position gets settled by chip-off:
 
 Nobody needs expensive prizes. They need prizes with *meaning.*
 
-* **The Golden Bucket (champion):** a thrift-store trophy or an actual small bucket, spray-painted gold. The champion keeps it until next season — then they have to defend it or hand it over. A [AFFILIATE: metallic gold spray paint] and a $3 trophy become the most contested object in your friend group.
+* **The Golden Bucket (champion):** a thrift-store trophy or an actual small bucket, spray-painted gold. The champion keeps it until next season — then they have to defend it or hand it over. A metallic gold spray paint and a $3 trophy become the most contested object in your friend group.
 * **The Shank Award (last place):** a plastic toy golf club, a whoopee cushion, whatever's funny. Awarded with ceremony. The winner of the Shank Award is contractually obligated to display it prominently until next season.
 * **Closest-to-the-bucket (season):** for the best single chip-off or the lowest single round. A sleeve of real golf balls works.
 * **Most improved:** biggest handicap drop from week 1 to playoffs. This is the award that keeps beginners coming back.

@@ -40,7 +40,7 @@ Two more principles before we start:
 - **Weekend project** — an hour or two, basic tools like a screwdriver or a step stool. Satisfying, not scary.
 - **Call a friend** — involves wiring, mounting things to walls, or ladders. Totally doable, but get a second pair of hands (or someone who's done it before).
 
-**We name categories, not brands.** You won't find brand names or model numbers here — models change every six months and last year's "top pick" might be a different product today. Instead we describe the *category*, what to look for, and the traps to avoid. Where a real recommendation would go, you'll see a placeholder like [AFFILIATE: smart LED bulb multipack].
+**We name categories, not brands.** You won't find brand names or model numbers here — models change every six months and last year's "top pick" might be a different product today. Instead we describe the *category*, what to look for, and the traps to avoid. Where a real recommendation would go, you'll see a placeholder like smart LED bulb multipack.
 
 ---
 
@@ -58,7 +58,7 @@ Lighting is the highest-impact, lowest-cost upgrade in this entire guide. A $20 
 
 **The real-world payoff:** Two things. First, *color temperature* — the single most misunderstood lighting concept. Bulbs are rated in "Kelvin" (K). Low numbers (2700K) look warm and cozy, like old-fashioned incandescent bulbs. High numbers (5000K+) look blue-white and clinical, like a hospital hallway. Most houses are full of whatever bulb was cheapest, usually harsh daylight white in rooms meant for relaxing. Being able to warm up your living room lamps in the evening changes the entire feel of the room. Second, dimming without a dimmer switch — set the mood from the couch.
 
-**What to look for:** A bulb that works with your phone directly (no separate hub box to buy and plug in), adjustable white color temperature at minimum, and a brightness rating that matches what you're replacing (look for "lumens" on the box — 800 lumens is roughly an old 60-watt bulb). [AFFILIATE: smart LED bulb multipack]
+**What to look for:** A bulb that works with your phone directly (no separate hub box to buy and plug in), adjustable white color temperature at minimum, and a brightness rating that matches what you're replacing (look for "lumens" on the box — 800 lumens is roughly an old 60-watt bulb). smart LED bulb multipack
 
 ### Upgrade 2.2: Add bias lighting behind the TV
 
@@ -70,7 +70,7 @@ Lighting is the highest-impact, lowest-cost upgrade in this entire guide. A $20 
 
 **The real-world payoff:** This looks like pure decoration, but it's secretly about eye comfort. Watching a bright TV in a dark room forces your eyes to constantly adjust between the bright screen and the black room around it — that's what causes eye fatigue during a movie marathon. A soft glow behind the TV narrows that contrast and your eyes relax. It also just looks fantastic; guests will ask about it.
 
-**What to look for:** A strip long enough for your TV size (measure or check the size range on the box), USB-powered so it switches with the TV, and a warm white or adjustable color option. Skip the ones that need a separate power brick and remote you'll lose. [AFFILIATE: USB TV bias lighting strip]
+**What to look for:** A strip long enough for your TV size (measure or check the size range on the box), USB-powered so it switches with the TV, and a warm white or adjustable color option. Skip the ones that need a separate power brick and remote you'll lose. USB TV bias lighting strip
 
 ### Upgrade 2.3: Motion-sensor lights for closets, pantries, and stairs
 
@@ -82,7 +82,7 @@ Lighting is the highest-impact, lowest-cost upgrade in this entire guide. A $20 
 
 **The real-world payoff:** Every house has that one closet or pantry where you can't see anything and the light switch is in a stupid place. This fixes it permanently for a few dollars. Stairways get a safety bonus — a lit step at 2 AM prevents falls.
 
-**What to look for:** Rechargeable over battery-powered if you can find it (saves buying batteries forever), a warm light color, and a sensor that isn't so sensitive it triggers every time someone walks past the room. [AFFILIATE: rechargeable motion-sensor LED light multi-pack]
+**What to look for:** Rechargeable over battery-powered if you can find it (saves buying batteries forever), a warm light color, and a sensor that isn't so sensitive it triggers every time someone walks past the room. rechargeable motion-sensor LED light multi-pack
 
 ### Upgrade 2.4: Put the porch and living room on a schedule (Weekend project)
 
@@ -94,7 +94,7 @@ Lighting is the highest-impact, lowest-cost upgrade in this entire guide. A $20 
 
 **The real-world payoff:** Your house lights itself. The porch is lit when you pull in the driveway. The living room lamps are on when you walk in. And when you're away, the house doesn't sit dark — which is the cheapest security upgrade there is. Once you've lived with scheduled lights for a month, flipping switches manually feels primitive.
 
-**What to look for:** If replacing a switch, make sure your switch box has a neutral wire (most houses built after the mid-1980s do; older houses might not — that's your "call a friend" signal). If using plugs, get ones with scheduling that runs on the plug itself, not your phone. [AFFILIATE: programmable light switch timer]
+**What to look for:** If replacing a switch, make sure your switch box has a neutral wire (most houses built after the mid-1980s do; older houses might not — that's your "call a friend" signal). If using plugs, get ones with scheduling that runs on the plug itself, not your phone. programmable light switch timer
 
 ---
 
@@ -112,7 +112,7 @@ Every device you own needs charging, and most houses handle it with a tangle of 
 
 **The real-world payoff:** The nightstand goes from cable nest to clean surface, and you stop playing "which cable is mine" in the dark. The deeper payoff: devices actually get charged. When charging is effortless, batteries stop dying at noon.
 
-**What to look for:** Compatibility with *your* devices (especially watch chargers, which differ by watch type), a weighted base that doesn't tip when you grab your phone one-handed, and enough clearance for phones with cases on. Measure your nightstand — some of these are bigger than they look in photos. [AFFILIATE: 3-in-1 bedside charging stand]
+**What to look for:** Compatibility with *your* devices (especially watch chargers, which differ by watch type), a weighted base that doesn't tip when you grab your phone one-handed, and enough clearance for phones with cases on. Measure your nightstand — some of these are bigger than they look in photos. 3-in-1 bedside charging stand
 
 ### Upgrade 3.2: Set up a family charging drawer or shelf
 
@@ -124,7 +124,7 @@ Every device you own needs charging, and most houses handle it with a tangle of 
 
 **The real-world payoff:** Two wins. First, no more hunting for a charger — every cable lives in one spot. Second, and parents love this one: devices sleep outside bedrooms. Kids' tablets and phones charge in the kitchen overnight instead of under a pillow. Short cables (1 foot) are the secret weapon here — long cables are what create the spaghetti.
 
-**What to look for:** A power strip with built-in USB ports (fewer wall adapters), surge protection (cheap insurance for expensive devices), and short, sturdy cables. If it's going in a drawer, make sure there's ventilation — chargers generate heat. [AFFILIATE: power strip with USB ports]
+**What to look for:** A power strip with built-in USB ports (fewer wall adapters), surge protection (cheap insurance for expensive devices), and short, sturdy cables. If it's going in a drawer, make sure there's ventilation — chargers generate heat. power strip with USB ports
 
 ### Upgrade 3.3: Tame the cable clutter
 
@@ -136,7 +136,7 @@ Every device you own needs charging, and most houses handle it with a tangle of 
 
 **The real-world payoff:** Dusting gets easier, vacuuming behind furniture gets easier, and the whole room looks calmer. It's also practical: tangled cables get yanked, and yanked cables break ports. A $12 box of organizers protects hundreds of dollars of gear.
 
-**What to look for:** Reusable silicone ties (not single-use zip ties you'll cut off and regret), a cable box big enough for your actual power strip (measure first — this is the #1 mistake), and adhesive clips rated for the weight of your cables. [AFFILIATE: cable management box and organizer kit]
+**What to look for:** Reusable silicone ties (not single-use zip ties you'll cut off and regret), a cable box big enough for your actual power strip (measure first — this is the #1 mistake), and adhesive clips rated for the weight of your cables. cable management box and organizer kit
 
 ### Upgrade 3.4: Standardize on one cable type
 
@@ -148,7 +148,7 @@ Every device you own needs charging, and most houses handle it with a tangle of 
 
 **The real-world payoff:** Grab any cable, charge any device. No more "does anyone have the *other* kind of charger?" Travel gets dramatically simpler — one cable and one wall adapter instead of a pouch full of maybe-compatible cords.
 
-**What to look for:** Cables from established sellers with real safety certifications (cheap no-name charging cables are the #1 gadget fire risk — this is worth repeating from our gift guide). Braided cables last longer than rubber ones. Buy a couple of lengths: short for the nightstand, long for the couch. [AFFILIATE: braided USB-C cable multi-pack]
+**What to look for:** Cables from established sellers with real safety certifications (cheap no-name charging cables are the #1 gadget fire risk — this is worth repeating from our gift guide). Braided cables last longer than rubber ones. Buy a couple of lengths: short for the nightstand, long for the couch. braided USB-C cable multi-pack
 
 ---
 
@@ -166,7 +166,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** The #1 complaint about modern TVs is "I can't hear what they're saying." That's the tiny TV speakers, not your ears. A soundbar fixes dialogue clarity immediately — no more riding the volume button between whispers and explosions. It's the upgrade guests notice within five minutes.
 
-**What to look for:** A dedicated "dialogue" or "voice" mode (this feature alone is worth paying for), a wireless subwoofer if you want movie rumble without extra wires, and HDMI ARC support — those three letters mean the TV and soundbar turn on/off together with one remote, which keeps things spouse-and-grandparent-friendly. [AFFILIATE: soundbar with dialogue mode]
+**What to look for:** A dedicated "dialogue" or "voice" mode (this feature alone is worth paying for), a wireless subwoofer if you want movie rumble without extra wires, and HDMI ARC support — those three letters mean the TV and soundbar turn on/off together with one remote, which keeps things spouse-and-grandparent-friendly. soundbar with dialogue mode
 
 ### Upgrade 4.2: Put a Bluetooth speaker where you actually live
 
@@ -178,7 +178,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** Music while cooking, podcasts while working in the garage, news in the shower. The phone speaker is fine for a two-minute call; it's miserable for an hour of music. One decent portable speaker gets used more than almost any other gadget in this guide.
 
-**What to look for:** Water resistance if it's going near a sink, tub, or outdoors (look for an IPX water rating on the box), 8+ hours of battery, and sound that stays clear at higher volumes. Bigger isn't automatically better — a well-designed small speaker beats a boomy big one. [AFFILIATE: portable Bluetooth speaker]
+**What to look for:** Water resistance if it's going near a sink, tub, or outdoors (look for an IPX water rating on the box), 8+ hours of battery, and sound that stays clear at higher volumes. Bigger isn't automatically better — a well-designed small speaker beats a boomy big one. portable Bluetooth speaker
 
 ### Upgrade 4.3: Upgrade the bedroom TV sound (Weekend project)
 
@@ -190,7 +190,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** Falling asleep to a movie where you can actually hear the dialogue at low volume. Many compact soundbars have a "night mode" that compresses loud explosions and boosts quiet speech — designed exactly for not waking the house.
 
-**What to look for:** Compact size (bedroom TV stands are small), night/dialogue mode, and a simple remote or auto-on feature so it doesn't add remote-control chaos to the bedroom. [AFFILIATE: compact soundbar for bedroom TV]
+**What to look for:** Compact size (bedroom TV stands are small), night/dialogue mode, and a simple remote or auto-on feature so it doesn't add remote-control chaos to the bedroom. compact soundbar for bedroom TV
 
 ---
 
@@ -208,7 +208,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** Lamps on a sunset schedule. The Christmas tree on a timer. The coffee maker... well, only if it has a physical on/off switch that stays "on" (smart plugs can't press buttons — they only control power). Start with two: one living room lamp, one porch light.
 
-**What to skip for now:** Anything hardwired. Plugs first, always. [AFFILIATE: smart plug 4-pack]
+**What to skip for now:** Anything hardwired. Plugs first, always. smart plug 4-pack
 
 ### Step 2: A voice assistant speaker (buy this second)
 
@@ -220,7 +220,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** This is what makes the smart home feel *smart* instead of just app-controlled. Voice control is also the accessibility win nobody talks about — for grandparents, anyone with mobility issues, or just anyone with their hands full of groceries, "turn on the kitchen light" beats finding a phone.
 
-**What to skip for now:** The giant premium models with big screens. The basic speaker does 95% of the job. [AFFILIATE: smart speaker with voice assistant]
+**What to skip for now:** The giant premium models with big screens. The basic speaker does 95% of the job. smart speaker with voice assistant
 
 ### Step 3: A video doorbell or smart thermostat (buy this third — pick ONE)
 
@@ -232,7 +232,7 @@ Here's a secret the TV industry doesn't advertise: modern TVs have terrible spea
 
 **The real-world payoff:** The doorbell ends package theft anxiety and "who's at the door" guessing. The thermostat saves real money by not heating/cooling an empty house — and ends the "did I leave the heat on?" worry when you're away.
 
-**What to check first:** For doorbells — whether it needs a monthly subscription to save video clips (many do; factor that in). For thermostats — whether your furnace wiring is compatible (most makers have an online compatibility checker; use it before buying). [AFFILIATE: video doorbell camera] / [AFFILIATE: smart thermostat]
+**What to check first:** For doorbells — whether it needs a monthly subscription to save video clips (many do; factor that in). For thermostats — whether your furnace wiring is compatible (most makers have an online compatibility checker; use it before buying). video doorbell camera / smart thermostat
 
 ### Step 4: Smart bulbs in key rooms (buy these fourth)
 

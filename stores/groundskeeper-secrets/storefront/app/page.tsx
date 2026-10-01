@@ -2,6 +2,7 @@ import Link from "next/link";
 import EmailCapture from "@/components/EmailCapture";
 import ProductCard from "@/components/ProductCard";
 import { products } from "@/lib/products";
+import { affiliateProducts } from "@/lib/affiliate-products";
 
 export default function HomePage() {
   return (
@@ -45,6 +46,36 @@ export default function HomePage() {
         <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {products.map((p) => (
             <ProductCard key={p.slug} product={p} />
+          ))}
+        </div>
+      </section>
+
+            {/* Recommended gear */}
+      <section className="mx-auto max-w-6xl px-6 py-14 bg-stone-100 rounded-2xl my-8">
+        <h2 className="text-2xl font-bold text-green-950 sm:text-3xl">
+          Recommended gear
+        </h2>
+        <p className="mt-2 text-slate-600">
+          Hand-picked products we actually recommend. As an Amazon Associate we earn from qualifying purchases.
+        </p>
+        <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          {affiliateProducts.map((item) => (
+            <a
+              key={item.asin}
+              href={item.url}
+              target="_blank"
+              rel="noopener noreferrer sponsored"
+              className="rounded-xl border border-stone-200 bg-white p-6 shadow-sm transition hover:shadow-md"
+            >
+              <h3 className="font-bold text-green-950">{item.name}</h3>
+              {item.price && (
+                <p className="mt-1 text-lg font-semibold text-green-700">{item.price}</p>
+              )}
+              <p className="mt-2 text-sm text-slate-600">{item.blurb}</p>
+              <span className="mt-4 inline-block rounded-lg bg-green-700 px-4 py-2 text-sm font-semibold text-white">
+                View on Amazon
+              </span>
+            </a>
           ))}
         </div>
       </section>

@@ -96,14 +96,14 @@ To check it, use a pocket knife or garden trowel to cut a small wedge-shaped plu
 * **Under 1/2 inch:** Leave it alone. It protects the soil.
 * **Over 1/2 inch:** You must dethatch. A thick thatch layer acts like a sponge, holding onto the grass seed and water so roots never reach the earth.
 
-Run a dethatching tool or [AFFILIATE: dethatching rake] firmly across the lawn to pull that matted layer to the surface. Rake up all the debris and haul it away.
+Run a dethatching tool or dethatching rake firmly across the lawn to pull that matted layer to the surface. Rake up all the debris and haul it away.
 
 ### Step 3: Core Aerate
 
 Core aeration is the single most effective mechanical step in an overseed project. It relieves compacted soil, breaks through surface crusting, and creates thousands of small mini-nurseries for your grass seed.
 
 * **Water the day before:** Dry soil is rock-hard. Water the lawn thoroughly 24 hours prior to aerating so the machine's hollow tines can penetrate to their full depth.
-* **Pull real cores:** Rent an aerator [AFFILIATE: core aerator rental] that uses hollow tines to pull physical dirt plugs **2 to 3 inches deep**. Avoid "spike" aerators that merely poke holes using solid spikes; those push soil outward and increase compaction around the hole, which stops roots from spreading.
+* **Pull real cores:** Rent an aerator core aerator rental that uses hollow tines to pull physical dirt plugs **2 to 3 inches deep**. Avoid "spike" aerators that merely poke holes using solid spikes; those push soil outward and increase compaction around the hole, which stops roots from spreading.
 * **Leave the plugs:** Do not rake up or discard the dirt cores. Leave them right where they fall. Over the next two to three weeks, rain, watering, and your mower will break the plugs down, creating a light, natural topdressing that helps cover the new seed.
 
 Once the lawn is cut short, thatch is cleared, and core holes cover the yard, you have maximum seed-to-soil contact ready for seeding.
@@ -124,7 +124,7 @@ For most homeowners across the Northeast, Midwest, and transition zones, a blend
 
 If your yard gets baked in direct sunlight all day, you can run pure tall fescue or mix in a little Kentucky bluegrass. If you have deep shade under a dense tree canopy, skip the bluegrass entirely and look for a dedicated shade mix packed with fine fescues.
 
-To make it simple, pick up a premium [AFFILIATE: tall fescue grass seed blend].
+To make it simple, pick up a premium [Scotts Turf Builder Grass Seed Sun & Shade Mix](https://www.amazon.com/dp/B0B9PWY4YN?tag=groundskeep09-20).
 
 ### How to Read a Seed Tag
 
@@ -175,7 +175,7 @@ Take the remaining half of your seed, put it in the spreader, and walk East-to-W
 
 For property lines, garden edges, and tight corners where the spreader wheels can't easily track, throw small handfuls of seed by hand like you're feeding chickens. 
 
-A sturdy [AFFILIATE: broadcast spreader] will make quick, clean work of this step.
+A sturdy [Scotts Turf Builder EdgeGuard Mini Broadcast Spreader](https://www.amazon.com/dp/B002YPS1KK?tag=groundskeep09-20) will make quick, clean work of this step.
 
 ### Seed Depth and Soil Contact
 
@@ -205,7 +205,7 @@ Always get a routine soil test through your local county extension office if you
 
 ### How and When to Apply
 
-Aim to deliver **1/2 to 1 lb of nitrogen per 1,000 square feet** using a balanced [AFFILIATE: starter fertilizer]. The manufacturer’s label will tell you the exact spreader setting to hit this number. 
+Aim to deliver **1/2 to 1 lb of nitrogen per 1,000 square feet** using a balanced [Scotts Turf Builder Grass Seed Sun & Shade Mix](https://www.amazon.com/dp/B0B9PWY4YN?tag=groundskeep09-20). The manufacturer’s label will tell you the exact spreader setting to hit this number. 
 
 The application timing is simple: apply it on the same day you seed. You can run your broadcast spreader with the starter fertilizer right before you drop the seed, or walk the lawn with it immediately afterward. Getting them down together means the nutrients are sitting right next to the seed, dissolving into the soil the moment you start your watering schedule.
 
@@ -243,7 +243,7 @@ Now transition to a normal lawn watering rhythm: deep watering 2 to 3 times per 
 
 ### The Non-Negotiable
 
-Missing even 2 or 3 days of watering during the germination window can kill the entire job. If you're going out of town, set up a simple [AFFILIATE: hose-end sprinkler timer] on your sprinkler — or ask a neighbor. If it rains enough to keep things damp, skip your watering that day. Rain is free labor; take it.
+Missing even 2 or 3 days of watering during the germination window can kill the entire job. If you're going out of town, set up a simple hose-end sprinkler timer on your sprinkler — or ask a neighbor. If it rains enough to keep things damp, skip your watering that day. Rain is free labor; take it.
 
 ---
 
@@ -279,7 +279,7 @@ I've watched homeowners make every one of these. Each one is avoidable if you kn
 Run through the checklist: Is the soil still below 50°F? Did the seed get buried too deep? Is it old seed? And the big one — has the seedbed stayed consistently moist? Nine times out of ten, it's temperature or water. If nights are still warm and you've been watering faithfully for three weeks with nothing showing, you may have dead seed. Buy fresh and reseed if the calendar still allows.
 
 **"A heavy rain washed my seed away."**
-It happens, especially on slopes. Wait for things to dry out, then reseed the thin or bare spots — you don't need to redo the whole lawn. Next time, a light cover of clean straw or a thin layer of peat moss over the seed helps hold it in place. A [AFFILIATE: peat moss spreader] makes this fast on bigger lawns.
+It happens, especially on slopes. Wait for things to dry out, then reseed the thin or bare spots — you don't need to redo the whole lawn. Next time, a light cover of clean straw or a thin layer of peat moss over the seed helps hold it in place. A peat moss spreader makes this fast on bigger lawns.
 
 **"Birds are eating my seed."**
 Birds love a fresh seeding the way kids love a candy store. A light straw cover discourages them, or simply seed about 10–15% heavier than the rate to account for losses. Once the seed germinates and greens up, the birds move on.
