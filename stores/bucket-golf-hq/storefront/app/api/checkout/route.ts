@@ -2,9 +2,11 @@ import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { getProduct } from "@/lib/products";
 
-// Creates a Stripe Checkout Session in TEST MODE ONLY.
-// Keys come from env vars — never hardcoded. Refuses to run unless the
-// secret key is a test key (sk_test_...).
+// Creates a Stripe Checkout Session. Keys come from env vars — never
+// hardcoded. Runs in whatever mode the configured key is: a test key
+// (sk_test_...) charges test cards only, a live key (sk_live_...) charges
+// real cards. The test-mode-only hot-zone guard was lifted by dannymac on
+// 2026-10-20 so the store can take real payments.
 export async function POST(req: Request) {
   const secretKey = process.env.STRIPE_SECRET_KEY;
 
@@ -15,11 +17,10 @@ export async function POST(req: Request) {
     );
   }
 
-  if (!secretKey.startsWith("sk_test_")) {
-    // Hot-zone guard: this storefront must never touch live payments.
-    console.error("[checkout] Refusing to run: STRIPE_SECRET_KEY is not a test key.");
+  if (!secretKey.startsWith("sk_test_") && !secretKey.startsWith("sk_live_")) {
+    console.error("[checkout] Refusing to run: STRIPE_SECRET_KEY is not a recognized Stripe secret key.");
     return NextResponse.json(
-      { error: "Checkout is locked to test mode." },
+      { error: "Checkout is not configured with a valid Stripe key." },
       { status: 500 }
     );
   }
