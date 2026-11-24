@@ -12,6 +12,7 @@ export interface Product {
   description: string;
   features: string[];
   download: string; // path under /public where the deliverable file lives
+  paypalUrl: string; // PayPal payment link buyers use to purchase this product
 }
 
 export const products: Product[] = [
@@ -29,6 +30,7 @@ export const products: Product[] = [
       "The most popular variations and house rules worth stealing",
     ],
     download: "/downloads/bucket-golf-rulebook.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-S5SG3BSM845D",
   },
   {
     slug: "league-starter-kit",
@@ -44,6 +46,7 @@ export const products: Product[] = [
       "A handicap system that keeps games close for everyone",
     ],
     download: "/downloads/league-starter-kit.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-FZD2NR9GGPGL",
   },
   {
     slug: "tournament-organizer-kit",
@@ -61,6 +64,7 @@ export const products: Product[] = [
       "Champion, runner-up, and Bucket Ace certificates ready to print and sign",
     ],
     download: "/downloads/bucket_golf_tournament_kit_v1_1.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-E33AV7HMC35Y",
   },
 ];
 
