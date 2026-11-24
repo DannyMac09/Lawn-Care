@@ -11,6 +11,7 @@ export interface Product {
   tagline: string;
   description: string;
   features: string[];
+  download: string; // path under /public where the deliverable file lives
 }
 
 export const products: Product[] = [
@@ -27,6 +28,7 @@ export const products: Product[] = [
       "Simple scoring explained with real examples",
       "The most popular variations and house rules worth stealing",
     ],
+    download: "/downloads/bucket-golf-rulebook.pdf",
   },
   {
     slug: "league-starter-kit",
@@ -41,6 +43,24 @@ export const products: Product[] = [
       "Printable scorecards ready for the clipboard",
       "A handicap system that keeps games close for everyone",
     ],
+    download: "/downloads/league-starter-kit.pdf",
+  },
+  {
+    slug: "tournament-organizer-kit",
+    name: "Tournament & League Organizer Kit",
+    price: 24,
+    tagline: "Brackets, handicaps, and a champion — handled.",
+    description:
+      "Playing the game is easy. Running the event is the hard part — until now. This 27-page organizer kit gives you print-ready brackets for 4, 8, and 16 players, double-elimination and round-robin formats, a simple handicap system that keeps every match close, a full league season pack with points and playoffs, and an official house rules sheet that settles the 'in the bucket vs. hit the bucket' debate for good. It even includes printable champion, runner-up, and Bucket Ace certificates, so somebody leaves with proof. Print it, pin it to the cooler, and crown a champion.",
+    features: [
+      "Print-ready brackets: single-elimination (4/8/16), double-elimination, and round-robin",
+      "Six game formats explained: stroke play, match play, scramble, best ball, skins, and shootout",
+      "A simple handicap system with a worked example and printable handicap cards",
+      "Full league season pack: 8-week schedule, points system, standings, and playoffs",
+      "Official house rules sheet plus printable scorecards — including the hole-in-0",
+      "Champion, runner-up, and Bucket Ace certificates ready to print and sign",
+    ],
+    download: "/downloads/bucket_golf_tournament_kit_v1_1.pdf",
   },
 ];
 
