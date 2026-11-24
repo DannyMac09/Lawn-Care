@@ -55,15 +55,15 @@ export default function ProductDetailPage({
             {formatPrice(product.price)}
           </p>
         </div>
-        <Link
-          href={`/checkout?slug=${product.slug}`}
+        <a
+          href={product.paypalUrl}
           className="w-full rounded-lg bg-lime-400 px-8 py-3 text-center font-semibold text-green-950 transition hover:bg-lime-300 sm:w-auto"
         >
           Buy now
-        </Link>
+        </a>
       </div>
       <p className="mt-3 text-center text-xs text-stone-500">
-        Secure checkout via Stripe (test mode).
+        Secure checkout via PayPal — pay with PayPal or card.
       </p>
     </div>
   );
