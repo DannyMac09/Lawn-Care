@@ -8,6 +8,8 @@ export interface Product {
   tagline: string;
   description: string;
   features: string[];
+  download: string; // path under /public where the deliverable file lives
+  paypalUrl: string; // PayPal payment link buyers use to purchase this product
 }
 
 export const products: Product[] = [
@@ -23,7 +25,10 @@ export const products: Product[] = [
       "Under-$50 upgrades worth the money",
       "Splurge picks that are actually worth it",
       "What to avoid: the viral junk not worth buying",
+      "Exact Picks insert: the specific products we'd buy, prices checked Nov 2026",
     ],
+    download: "/downloads/christmas-gadget-guide.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/SACXPCNZ2NMLY",
   },
   {
     slug: "tech-upgrades-guide",
@@ -38,6 +43,8 @@ export const products: Product[] = [
       "Audio improvements worth hearing",
       "Smart-home starter path, each step rated by setup difficulty",
     ],
+    download: "",
+    paypalUrl: "",
   },
 ];
 
