@@ -86,34 +86,34 @@ export default function HomePage() {
         <EmailCapture />
       </section>
 
-      {/* Testimonials (placeholder) */}
+      {/* Why trust it */}
       <section className="mx-auto max-w-6xl px-6 py-14">
         <h2 className="text-2xl font-bold text-orange-950 sm:text-3xl">
-          What readers say
+          From a real campground
         </h2>
         <div className="mt-8 grid gap-6 md:grid-cols-3">
           {[
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy camper",
+              title: "Cooked by campers",
+              text: "These guides come from decades of real campground life — seasonal sites, potlucks, and feeding a crew over coals, not from a test kitchen.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy camper",
+              title: "The whole trip, planned",
+              text: "Not just recipes: prep at home, a day-by-day plan, and the shopping list that matches it. That's the difference between eating well and eating whatever's left.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy camper",
+              title: "Plain English, real fires",
+              text: "Coal counts, not guesswork. Simple steps, no chef talk. If it doesn't work over a real campfire, it doesn't go in the guide.",
             },
-          ].map((t, i) => (
+          ].map((t) => (
             <figure
-              key={i}
+              key={t.title}
               className="rounded-xl border border-stone-200 bg-white p-6 shadow-sm"
             >
-              <blockquote className="text-stone-700">“{t.quote}”</blockquote>
-              <figcaption className="mt-4 text-sm font-semibold text-orange-900">
-                {t.name}
+              <figcaption className="font-bold text-orange-900">
+                {t.title}
               </figcaption>
+              <blockquote className="mt-3 text-stone-700">{t.text}</blockquote>
             </figure>
           ))}
         </div>
