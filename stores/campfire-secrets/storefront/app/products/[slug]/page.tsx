@@ -63,7 +63,9 @@ export default function ProductDetailPage({
         </Link>
       </div>
       <p className="mt-3 text-center text-xs text-stone-500">
-        Secure checkout via Stripe (test mode).
+        {product.paypalUrl
+          ? "Secure checkout via PayPal."
+          : "Secure checkout via Stripe (test mode)."}
       </p>
     </div>
   );
