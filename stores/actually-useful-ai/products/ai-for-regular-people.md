@@ -171,7 +171,7 @@ AI can't see your bank account (good), but it can build you a budget plan if you
 **Prompt to copy:**
 > Help me make a monthly budget. I take home $3,200 a month. My rent is $1,100, car payment $280, insurance $150, groceries about $500, gas $120, and phone $80. I want to save at least $200 a month. Show me where my money goes and suggest 3 realistic ways to cut spending.
 
-**What you'll get back:** A breakdown showing roughly $590 left unaccounted for, plus suggestions like eating out less, shopping insurance quotes, or cutting unused subscriptions. Follow up with: *"Now make me a simple spreadsheet-style table I can print and put on the fridge."*
+**What you'll get back:** A breakdown showing roughly $970 left unaccounted for, plus suggestions like eating out less, shopping insurance quotes, or cutting unused subscriptions. Follow up with: *"Now make me a simple spreadsheet-style table I can print and put on the fridge."*
 
 ### 6. Summarizing long documents
 
@@ -205,7 +205,7 @@ Want to understand something — investments, gardening, how your phone's camera
 A well-written complaint gets results. An angry rant gets ignored. AI helps you be firm without being rude.
 
 **Prompt to copy:**
-> Write a firm but polite complaint letter to an internet provider. My bill went up $30 a month without warning, and customer service told me "there's nothing we can do." I want the old rate restored or a real explanation. Include my account number as [ACCOUNT NUMBER].
+> Write a firm but polite complaint letter to an internet provider. My bill went up $30 a month without warning, and customer service told me "there's nothing we can do." I want the old rate restored or a real explanation. Refer to my account number as [ACCOUNT NUMBER] — I'll write in the real number myself after I print the letter.
 
 **What you'll get back:** A professional letter with your facts laid out calmly, a clear request, and a reasonable deadline ("please respond within 14 days"). Companies take calm, specific letters seriously.
 
