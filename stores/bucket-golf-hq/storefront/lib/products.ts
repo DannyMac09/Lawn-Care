@@ -30,7 +30,7 @@ export const products: Product[] = [
       "The most popular variations and house rules worth stealing",
     ],
     download: "/downloads/bucket-golf-rulebook.pdf",
-    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-S5SG3BSM845D",
+    paypalUrl: "https://www.paypal.com/ncp/payment/5P4Q8SMXLCHN4",
   },
   {
     slug: "league-starter-kit",
@@ -46,7 +46,7 @@ export const products: Product[] = [
       "A handicap system that keeps games close for everyone",
     ],
     download: "/downloads/league-starter-kit.pdf",
-    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-FZD2NR9GGPGL",
+    paypalUrl: "https://www.paypal.com/ncp/payment/EB3NUHQ3MWQCJ",
   },
   {
     slug: "tournament-organizer-kit",
@@ -64,7 +64,7 @@ export const products: Product[] = [
       "Champion, runner-up, and Bucket Ace certificates ready to print and sign",
     ],
     download: "/downloads/bucket_golf_tournament_kit_v1_1.pdf",
-    paypalUrl: "https://www.paypal.com/ncp/payment/PLB-E33AV7HMC35Y",
+    paypalUrl: "https://www.paypal.com/ncp/payment/AUTN52JASLXZ2",
   },
 ];
 
