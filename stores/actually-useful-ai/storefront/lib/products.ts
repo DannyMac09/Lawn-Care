@@ -8,6 +8,8 @@ export interface Product {
   tagline: string;
   description: string;
   features: string[];
+  download: string; // path under /public where the deliverable file lives
+  paypalUrl: string; // PayPal payment link buyers use to purchase this product
 }
 
 export const products: Product[] = [
@@ -24,6 +26,8 @@ export const products: Product[] = [
       "10 everyday uses: emails, trips, recipes, budgeting & more",
       "Safety basics: what never to share",
     ],
+    download: "/downloads/ai-for-regular-people.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/JTMPPYLE9C2LG",
   },
   {
     slug: "everyday-ai-prompts",
@@ -38,6 +42,8 @@ export const products: Product[] = [
       "Each prompt says exactly when to use it",
       "Works with any AI chatbot",
     ],
+    download: "",
+    paypalUrl: "",
   },
 ];
 
