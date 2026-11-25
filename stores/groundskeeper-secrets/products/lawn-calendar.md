@@ -53,10 +53,10 @@ Fall is the most important season of the year for your lawn. Spring is second. E
 
 You don't need a garage full of gear. These are the basics that cover 95% of this calendar:
 
-- **Mower with a sharp blade.** Dull blades tear grass and invite disease. Sharpen at least twice a season — mower blade sharpener kit.
+- **Mower with a sharp blade.** Dull blades tear grass and invite disease. Sharpen at least twice a season — a blade sharpener kit makes it a ten-minute job.
 - **Broadcast spreader.** For seed, fertilizer, and pre-emergent — even application beats hand-tossing every time. [Scotts Turf Builder EdgeGuard Mini Broadcast Spreader](https://www.amazon.com/dp/B002YPS1KK?tag=groundskeep09-20).
-- **Soil thermometer.** A $10 probe takes the guesswork out of seeding and pre-emergent timing. soil thermometer.
-- **Rain gauge.** If you don't measure, you're guessing. rain gauge.
+- **Soil thermometer.** A $10 probe takes the guesswork out of seeding and pre-emergent timing.
+- **Rain gauge.** If you don't measure, you're guessing.
 - **Soil test kit.** Test every 2–3 years through your county extension office — it tells you exactly what your soil needs instead of guessing. [MySoil Soil Test Kit](https://www.amazon.com/dp/B084TSNR79?tag=groundskeep09-20).
 - **Garden rake and leaf rake.** Cleanup, dethatch checks, settling seed.
 
@@ -83,7 +83,7 @@ The lawn is asleep under frost or snow. Your job: think, not do.
 **Checklist:**
 - [ ] Walk the property and list problem areas
 - [ ] Order a soil test kit
-- [ ] Service the mower: change oil, replace spark plug and air filter, sharpen or replace the blade (mower blade sharpener kit)
+- [ ] Service the mower: change oil, replace spark plug and air filter, sharpen or replace the blade
 - [ ] Stay off frozen grass
 
 ---
