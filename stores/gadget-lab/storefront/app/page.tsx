@@ -92,34 +92,34 @@ export default function HomePage() {
         <EmailCapture />
       </section>
 
-      {/* Testimonials (placeholder) */}
+      {/* How we test */}
       <section className="mx-auto max-w-6xl px-6 py-14">
         <h2 className="text-2xl font-bold text-white sm:text-3xl">
-          What testers say
+          How we test
         </h2>
         <div className="mt-8 grid gap-6 md:grid-cols-3">
           {[
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "We buy it ourselves",
+              text: "Every gadget in our guides was bought with our own money — no review units, no paid placements, no sponsors to please.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "We stress-test it",
+              text: "Unboxed, set up, and used hard in real life — not just read off a spec sheet. If it breaks, droops, or disappoints, you'll hear about it.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "We tell you straight",
+              text: "Worth it, or drawer junk by January — that's the verdict, in plain English, with the exact picks we'd buy ourselves.",
             },
-          ].map((t, i) => (
+          ].map((t) => (
             <figure
-              key={i}
+              key={t.title}
               className="rounded-xl border border-zinc-800 bg-zinc-900 p-6 shadow-sm"
             >
-              <blockquote className="text-zinc-300">“{t.quote}”</blockquote>
-              <figcaption className="mt-4 text-sm font-semibold text-cyan-400">
-                {t.name}
+              <figcaption className="font-bold text-cyan-400">
+                {t.title}
               </figcaption>
+              <blockquote className="mt-3 text-zinc-300">{t.text}</blockquote>
             </figure>
           ))}
         </div>
