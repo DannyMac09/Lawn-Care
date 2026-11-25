@@ -86,34 +86,34 @@ export default function HomePage() {
         <EmailCapture />
       </section>
 
-      {/* Testimonials (placeholder) */}
+      {/* Why trust it */}
       <section className="mx-auto max-w-6xl px-6 py-14">
         <h2 className="text-2xl font-bold text-indigo-950 sm:text-3xl">
-          What readers say
+          AI, explained like a neighbor would
         </h2>
         <div className="mt-8 grid gap-6 md:grid-cols-3">
           {[
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "Zero jargon, promise",
+              text: "If a guide needs a computer degree to read, it failed. Everything here is plain English, big steps, nothing assumed.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "Safety first",
+              text: "What never to type into a chatbot, how to spot a made-up answer, and how to check before you trust it — covered before anything fancy.",
             },
             {
-              quote: "Placeholder testimonial — real reader reviews coming soon.",
-              name: "— Happy reader",
+              title: "Useful on day one",
+              text: "Emails, recipes from what's in the fridge, trip plans, budgets — real everyday jobs you can try the same afternoon you read it.",
             },
-          ].map((t, i) => (
+          ].map((t) => (
             <figure
-              key={i}
+              key={t.title}
               className="rounded-xl border border-slate-200 bg-white p-6 shadow-sm"
             >
-              <blockquote className="text-slate-700">“{t.quote}”</blockquote>
-              <figcaption className="mt-4 text-sm font-semibold text-indigo-900">
-                {t.name}
+              <figcaption className="font-bold text-indigo-900">
+                {t.title}
               </figcaption>
+              <blockquote className="mt-3 text-slate-700">{t.text}</blockquote>
             </figure>
           ))}
         </div>
