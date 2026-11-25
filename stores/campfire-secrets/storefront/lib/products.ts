@@ -1,6 +1,5 @@
 // Product catalog for the Campfire Secrets storefront.
-// Real product content is being written separately — descriptions below are
-// placeholders and will be replaced with the finished guides.
+// Plain-English campground guides from decades of real campground life.
 
 export interface Product {
   slug: string;
@@ -9,6 +8,8 @@ export interface Product {
   tagline: string;
   description: string;
   features: string[];
+  download: string; // path under /public where the deliverable file lives
+  paypalUrl: string; // PayPal payment link buyers use to purchase this product
 }
 
 export const products: Product[] = [
@@ -18,13 +19,15 @@ export const products: Product[] = [
     price: 19,
     tagline: "Campfire and camp-stove meals that actually work outdoors.",
     description:
-      "A plain-English playbook for feeding your crew at camp: campfire and camp-stove meals that actually turn out right outdoors, with no fussy equipment and no burned dinners. (Full guide content in progress — placeholder description.)",
+      "Not just recipes — a whole-trip meal system. This playbook plans your camp food the way real campground cooks do: prep at home, a day-by-day meal plan, and a shopping and packing list that matches it, so nothing gets forgotten and nothing spoils. Inside: cast-iron and Dutch-oven basics with the coal counts that actually work, food-safety rules for cooking outdoors, and meals that feed a crowd without a fuss. Written in plain English from decades of campground life.",
     features: [
-      "3-day camp meal plans that feed a crowd",
-      "Cast iron basics for the campfire",
+      "Whole-trip meal system: prep at home + day-by-day plan + matching shopping list",
+      "Cast iron and Dutch-oven basics, with coal counts that work",
       "Food safety rules for cooking outdoors",
       "Complete camp-kitchen packing list",
     ],
+    download: "/downloads/camp-cooking-playbook.pdf",
+    paypalUrl: "https://www.paypal.com/ncp/payment/NU3HKWWRK5UPS",
   },
   {
     slug: "fishing-checklists",
@@ -32,13 +35,15 @@ export const products: Product[] = [
     price: 12,
     tagline: "Never forget a single piece of gear again.",
     description:
-      "The pre-trip checklists that make sure everything — tackle, gear, license, and safety — is packed and legal before you pull out of the driveway. (Full guide content in progress — placeholder description.)",
+      "The pre-trip checklists that make sure everything — tackle, gear, license, and safety — is packed and legal before you pull out of the driveway.",
     features: [
       "Pre-trip checklists for every outing",
       "Tackle and gear lists that leave nothing behind",
       "License and safety reminders by state",
       "Species quick-reference card",
     ],
+    download: "",
+    paypalUrl: "",
   },
 ];
 
