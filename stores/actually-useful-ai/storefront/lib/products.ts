@@ -54,3 +54,5 @@ export function getProduct(slug: string): Product | undefined {
 export function formatPrice(dollars: number): string {
   return `$${dollars.toFixed(2)}`;
 }
+
+// PayPal wiring for AI for Regular People verified live 2026-11-25.
