@@ -15,6 +15,7 @@ Every December the same thing happens: you see a gadget in a viral video, it loo
 * **Chapter 3:** Under $50 — The Sweet Spot
 * **Chapter 4:** Splurge — Big-Ticket Picks Actually Worth It
 * **Chapter 5:** What to Avoid — The Junk List
+* **The Gadget Lab Exact Picks — Checked November 25, 2026**
 * **One-Page Cheat Sheet**
 
 ---
@@ -31,9 +32,11 @@ The best gadget gift matches something the person already does every day. A pers
 
 A gadget that takes an hour of confusing setup will sit in the box until March. When you pick something with an app or a setup step, either choose one that works out of the box, or budget 20 minutes on Christmas afternoon to help them set it up. Your help is the difference between "best gift ever" and "never got around to it."
 
-### Rule 3: We name categories, not brands
+### Rule 3: Learn the category here — get the exact pick at the back
 
-You won't find brand names or model numbers in this guide. That's deliberate. Brands change their models every six months, and a "top pick" from last year might be a different product this year. Instead, we tell you the *category* of gadget, what it does in plain words, and exactly what to look for when you shop — the features that matter and the red flags that don't. Anywhere you'd see a "buy here" button, you'll see a placeholder like compact Bluetooth tracker tag showing where a real recommendation would go.
+Most of this guide teaches *categories*, not brand names, and that's deliberate. Models change every six months, but what makes a good tracker tag or power bank good doesn't. Learn the category — what the gadget does in plain words, the features that matter, and the red flags that don't — and you'll be able to spot the right product (and the junk) in any store, this year or next.
+
+But we know some of you just want the answer. So at the back of this guide, right before the cheat sheet, you'll find **The Gadget Lab Exact Picks**: the specific product we'd buy in every category in this guide, with the price we checked on November 25, 2026. Read the category first so you understand the pick — then use the insert when you're ready to buy.
 
 One more thing: prices move during the holidays. The tiers in this guide are based on what these categories *normally* sell for. If a price looks way below the tier — a $15 "noise-cancelling headset" or a $20 "robot vacuum" — that is your first warning sign. Jump to Chapter 5.
 
@@ -65,7 +68,7 @@ The hardest gifts to buy are the cheap ones. Under $25 is where most junk lives,
 
 **Perfect for:** Grandparents who get up at night, anyone with a dark hallway or bathroom run, and new parents doing 3 AM feedings.
 
-**Why it's worth the money:** It's a safety gift disguised as a gadget. Falls on the way to the bathroom are no joke for older folks, and flipping on a bright overhead light ruins everyone's sleep. What to look for: a warm color (not harsh blue-white), adjustable brightness if you can find it, and either a plug-in version (zero maintenance) or a rechargeable one with a long battery life. Get a multi-pack and scatter them — hallway, bathroom, stairs. motion-sensor LED night light multi-pack
+**Why it's worth the money:** It's a safety gift disguised as a gadget. Falls on the way to the bathroom are no joke for older folks, and flipping on a bright overhead light ruins everyone's sleep. What to look for: a warm color (not harsh blue-white), adjustable brightness if you can find it, and either a plug-in version (zero maintenance) or a rechargeable one with a long battery life. Get a multi-pack and scatter them — hallway, bathroom, stairs.
 
 ### 4. Cable tamer kit
 
@@ -73,7 +76,7 @@ The hardest gifts to buy are the cheap ones. Under $25 is where most junk lives,
 
 **Perfect for:** The friend whose junk drawer is a knot of black cables, the remote worker with a desk full of wires, and anyone who travels with chargers.
 
-**Why it's worth the money:** Nobody buys cable organizers for themselves, but everyone sighs with relief when they get them. What to look for: reusable silicone ties (not single-use zip ties), a couple of *short* cables (a 1-foot cable beats a 6-foot cable behind a nightstand), and sticky clips that actually hold. It's the least glamorous gift in this guide and one of the most appreciated. silicone cable organizer kit
+**Why it's worth the money:** Nobody buys cable organizers for themselves, but everyone sighs with relief when they get them. What to look for: reusable silicone ties (not single-use zip ties), a couple of *short* cables (a 1-foot cable beats a 6-foot cable behind a nightstand), and sticky clips that actually hold. It's the least glamorous gift in this guide and one of the most appreciated.
 
 ### 5. Rechargeable mini flashlight
 
@@ -81,7 +84,7 @@ The hardest gifts to buy are the cheap ones. Under $25 is where most junk lives,
 
 **Perfect for:** The driver who has ever fumbled with a fuse box in the dark, the camper, the dog walker, and the handyman.
 
-**Why it's worth the money:** Phone flashlights drain your battery and tie up your phone. A dedicated little light is brighter and always ready. What to look for: USB-C charging (the current standard — one cable for everything), at least a couple hundred lumens of brightness (enough to actually see with), and a simple one-button operation. No one wants to memorize six click patterns in the dark. rechargeable mini keychain flashlight
+**Why it's worth the money:** Phone flashlights drain your battery and tie up your phone. A dedicated little light is brighter and always ready. What to look for: USB-C charging (the current standard — one cable for everything), at least a couple hundred lumens of brightness (enough to actually see with), and a simple one-button operation. No one wants to memorize six click patterns in the dark.
 
 ### 6. Gooseneck phone holder
 
@@ -89,7 +92,7 @@ The hardest gifts to buy are the cheap ones. Under $25 is where most junk lives,
 
 **Perfect for:** The person who watches videos in bed, the grandparent on video calls with the grandkids, and the home cook following recipes on a phone.
 
-**Why it's worth the money:** It's a $15 solution to a daily annoyance — neck pain and dropped phones on faces. What to look for: a sturdy clamp (not a wobbly suction cup), an arm that actually stays where you bend it, and a holder wide enough for a phone *with its case on*. Skip the ultra-cheap ones with flimsy arms that droop after a week. gooseneck phone holder with clamp
+**Why it's worth the money:** It's a $15 solution to a daily annoyance — neck pain and dropped phones on faces. What to look for: a sturdy clamp (not a wobbly suction cup), an arm that actually stays where you bend it, and a holder wide enough for a phone *with its case on*. Skip the ultra-cheap ones with flimsy arms that droop after a week.
 
 ---
 
@@ -103,7 +106,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** Couples who both charge phones at night, anyone with a watch and earbuds, and the person whose nightstand currently looks like a cable spaghetti incident.
 
-**Why it's worth the money:** It replaces three chargers and declutters the most visible surface in the bedroom. What to look for: enough charging speed to fill a phone overnight (anything marketed for overnight charging is fine — speed matters less here), a stable weighted base that doesn't tip when you grab the phone, and compatibility with phone cases (some stands demand a bare phone — annoying). One caveat: make sure the stand matches the *type* of watch the person owns, since watch chargers differ. 3-in-1 wireless charging stand
+**Why it's worth the money:** It replaces three chargers and declutters the most visible surface in the bedroom. What to look for: enough charging speed to fill a phone overnight (anything marketed for overnight charging is fine — speed matters less here), a stable weighted base that doesn't tip when you grab the phone, and compatibility with phone cases (some stands demand a bare phone — annoying). One caveat: make sure the stand matches the *type* of watch the person owns, since watch chargers differ.
 
 ### 2. Portable Bluetooth speaker
 
@@ -111,7 +114,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** The backyard hangout person, the garage tinkerer, the shower singer, and the tailgater.
 
-**Why it's worth the money:** A phone speaker is fine for a call; it's miserable for music. A decent portable speaker turns a quiet porch into a place people want to hang out. What to look for: water resistance (look for an "IPX" water rating if it'll go near a pool or beach), at least 8–10 hours of claimed battery life, and sound that stays clear when you turn it up — tinny at high volume is the classic failure of cheap ones. You don't need the biggest one; a well-reviewed mid-size speaker beats a boomy giant. portable waterproof Bluetooth speaker
+**Why it's worth the money:** A phone speaker is fine for a call; it's miserable for music. A decent portable speaker turns a quiet porch into a place people want to hang out. What to look for: water resistance (look for an "IPX" water rating if it'll go near a pool or beach), at least 8–10 hours of claimed battery life, and sound that stays clear when you turn it up — tinny at high volume is the classic failure of cheap ones. You don't need the biggest one; a well-reviewed mid-size speaker beats a boomy giant.
 
 ### 3. Wi-Fi digital photo frame
 
@@ -119,7 +122,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** Grandparents, long-distance family members, and anyone whose fridge is already full of photos.
 
-**Why it's worth the money:** This is the rare gadget that's really a *relationship* gift. The frame itself is nice, but the ongoing stream of new photos is the actual present. What to look for: a simple app that multiple family members can send to (check that Mom, Dad, and the grandkids can all add photos), decent screen resolution so photos don't look fuzzy, and an auto-brightness or sleep timer so it doesn't glow all night. Set it up and preload it with photos *before* you wrap it — an empty frame on Christmas morning is a letdown. Wi-Fi digital photo frame
+**Why it's worth the money:** This is the rare gadget that's really a *relationship* gift. The frame itself is nice, but the ongoing stream of new photos is the actual present. What to look for: a simple app that multiple family members can send to (check that Mom, Dad, and the grandkids can all add photos), decent screen resolution so photos don't look fuzzy, and an auto-brightness or sleep timer so it doesn't glow all night. Set it up and preload it with photos *before* you wrap it — an empty frame on Christmas morning is a letdown.
 
 ### 4. Smart plug multipack
 
@@ -127,7 +130,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** The person who leaves lamps on all day, the Christmas-decoration enthusiast, and the frequent traveler who wants the house to look lived-in.
 
-**Why it's worth the money:** It's the cheapest possible way to make a house feel "smart." Put the living room lamps on a sunset schedule and the house lights itself. What to look for: a multipack (two or four — one plug is a tease), an app that doesn't require a separate hub box, and scheduling that works even if the phone is off. One honest warning: they only work with simple on/off devices. They can't dim a lamp or control anything with a digital power button that needs a press after plugging in. smart plug multipack
+**Why it's worth the money:** It's the cheapest possible way to make a house feel "smart." Put the living room lamps on a sunset schedule and the house lights itself. What to look for: a multipack (two or four — one plug is a tease), an app that doesn't require a separate hub box, and scheduling that works even if the phone is off. One honest warning: they only work with simple on/off devices. They can't dim a lamp or control anything with a digital power button that needs a press after plugging in.
 
 ### 5. Budget wireless earbuds
 
@@ -135,7 +138,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** The commuter, the gym-goer, the walker, and the teenager who loses wired earbuds monthly.
 
-**Why it's worth the money:** Wires snag, break, and tangle. Going wireless is one of those upgrades people put off and then can't believe they waited. What to look for: a secure, comfortable fit (this matters more than sound quality at this price), at least 4–5 hours of battery per charge with a case that recharges them a few times over, and touch controls that aren't so sensitive they trigger every time you adjust the bud. Skip any pair promising "pro-level noise cancelling" under $50 — that feature costs real money to do well, and cheap versions are just marketing. budget wireless earbuds
+**Why it's worth the money:** Wires snag, break, and tangle. Going wireless is one of those upgrades people put off and then can't believe they waited. What to look for: a secure, comfortable fit (this matters more than sound quality at this price), at least 4–5 hours of battery per charge with a case that recharges them a few times over, and touch controls that aren't so sensitive they trigger every time you adjust the bud. Skip any pair promising "pro-level noise cancelling" under $50 — that feature costs real money to do well, and cheap versions are just marketing.
 
 ### 6. Sunrise alarm clock
 
@@ -143,7 +146,7 @@ This is where the best gifts live. Under $50 is enough money for real quality bu
 
 **Perfect for:** The person who can't drag themselves out of bed on dark winter mornings, the shift worker, and the teenager who sleeps through three phone alarms.
 
-**Why it's worth the money:** Waking up in a pitch-black bedroom to a screaming alarm is miserable. A light-based wake-up is genuinely gentler, and people who switch rarely go back. What to look for: adjustable brightness (bedrooms vary), a backup sound alarm for heavy sleepers (light alone won't wake everyone), and a dimmable display — a clock that lights up the whole room at 2 AM defeats the purpose. sunrise alarm clock
+**Why it's worth the money:** Waking up in a pitch-black bedroom to a screaming alarm is miserable. A light-based wake-up is genuinely gentler, and people who switch rarely go back. What to look for: adjustable brightness (bedrooms vary), a backup sound alarm for heavy sleepers (light alone won't wake everyone), and a dimmable display — a clock that lights up the whole room at 2 AM defeats the purpose.
 
 ---
 
@@ -157,7 +160,7 @@ These cost real money, so the bar is higher: the gift has to get used constantly
 
 **Perfect for:** The reader who travels, the person with a nightstand stack of half-finished books, and anyone whose eyes get tired staring at a phone or tablet.
 
-**Why it's worth the money:** Readers who switch to an e-reader read *more* — it's lighter than a hardcover, holds a whole library, and the paper-like screen doesn't cause the eye strain of a glowing tablet. What to look for: a built-in adjustable light (non-negotiable), waterproofing if they read in the bath or by the pool, and enough storage for a big library. The honest truth: the reading experience barely differs between the mid-range and the expensive models, so don't overpay for features a casual reader won't notice. e-reader with backlight
+**Why it's worth the money:** Readers who switch to an e-reader read *more* — it's lighter than a hardcover, holds a whole library, and the paper-like screen doesn't cause the eye strain of a glowing tablet. What to look for: a built-in adjustable light (non-negotiable), waterproofing if they read in the bath or by the pool, and enough storage for a big library. The honest truth: the reading experience barely differs between the mid-range and the expensive models, so don't overpay for features a casual reader won't notice.
 
 ### 2. Entry-level robot vacuum
 
@@ -165,7 +168,7 @@ These cost real money, so the bar is higher: the gift has to get used constantly
 
 **Perfect for:** The pet owner fighting a daily war with fur, the busy parent, and anyone with mostly hard floors or low-pile carpet.
 
-**Why it's worth the money:** It doesn't replace deep cleaning, but it keeps the floors at a baseline clean *every single day* without anyone lifting a finger. Pet owners notice the difference within a week. What to look for: good navigation (the cheapest ones bounce around randomly and miss spots — look for one that maps the room), a big enough dustbin that you're not emptying it daily, and strong pet-hair pickup if there's a dog or cat in the house. Set honest expectations: it's a maintenance cleaner, not a replacement for a real vacuum. entry-level robot vacuum
+**Why it's worth the money:** It doesn't replace deep cleaning, but it keeps the floors at a baseline clean *every single day* without anyone lifting a finger. Pet owners notice the difference within a week. What to look for: good navigation (the cheapest ones bounce around randomly and miss spots — look for one that maps the room), a big enough dustbin that you're not emptying it daily, and strong pet-hair pickup if there's a dog or cat in the house. Set honest expectations: it's a maintenance cleaner, not a replacement for a real vacuum.
 
 ### 3. Noise-cancelling over-ear headphones
 
@@ -173,7 +176,7 @@ These cost real money, so the bar is higher: the gift has to get used constantly
 
 **Perfect for:** The frequent traveler, the remote worker on video calls all day, and the person with a noisy commute.
 
-**Why it's worth the money:** This is the single biggest audio upgrade most people will ever experience. The first time someone turns on real noise cancelling on a plane, they get it instantly. What to look for: comfort for long wear (clamping force matters more than specs), at least 20+ hours of battery life, and a fold-flat design for travel. This is one category where spending more genuinely buys better performance — the cheap knockoffs are noticeably worse. If the budget is tight, this is the gift to go in on with siblings. noise-cancelling over-ear headphones
+**Why it's worth the money:** This is the single biggest audio upgrade most people will ever experience. The first time someone turns on real noise cancelling on a plane, they get it instantly. What to look for: comfort for long wear (clamping force matters more than specs), at least 20+ hours of battery life, and a fold-flat design for travel. This is one category where spending more genuinely buys better performance — the cheap knockoffs are noticeably worse. If the budget is tight, this is the gift to go in on with siblings.
 
 ### 4. Video doorbell
 
@@ -181,7 +184,7 @@ These cost real money, so the bar is higher: the gift has to get used constantly
 
 **Perfect for:** The security-conscious homeowner, the frequent package receiver, and the person who never wants to open the door to a stranger again.
 
-**Why it's worth the money:** Package theft is real, and knowing who's at the door without getting up is a daily convenience. What to look for: clear night vision (most visitors come after dark), a wide enough viewing angle to see packages left on the ground, and honest ongoing costs — many doorbells require a monthly subscription to save video clips, so check that *before* you buy, not after. Also check whether it runs on battery (easy install, needs recharging) or needs existing doorbell wiring (harder install, never needs charging). video doorbell camera
+**Why it's worth the money:** Package theft is real, and knowing who's at the door without getting up is a daily convenience. What to look for: clear night vision (most visitors come after dark), a wide enough viewing angle to see packages left on the ground, and honest ongoing costs — many doorbells require a monthly subscription to save video clips, so check that *before* you buy, not after. Also check whether it runs on battery (easy install, needs recharging) or needs existing doorbell wiring (harder install, never needs charging).
 
 ---
 
@@ -230,6 +233,37 @@ Before you buy any gadget you found in a viral video, run this checklist:
 3. **Does the price make sense?** Compare it to the tiers in this guide. Way cheaper = corners cut somewhere.
 4. **What's the return policy?** If you can't easily return it, don't buy it as a gift.
 5. **Would they use it weekly?** Be honest. "Cool" is not the same as "useful."
+
+---
+
+## The Gadget Lab Exact Picks — Checked November 25, 2026
+
+This is the part where we name names. Below is the specific product we'd buy in every category in this guide, with the price we checked on **November 25, 2026**. Holiday prices move fast, so yours might be a few dollars up or down — the pick matters more than the exact dollar. If the price is in the same neighborhood, you're looking at the right product.
+
+### Under $25
+
+1. **Tile Mate (2024) Bluetooth tracker — about $25 (often around $15 on sale).** Works with iPhone *and* Android, rings loud enough to hear from another room, and the keyring hole is built right in — no extra case to buy.
+2. **Anker PowerCore 10K power bank (10,000mAh) — about $20.** Two full phone charges from a pocket-size brick, made by the one brand we fully trust with batteries.
+3. **AUVON Motion-Sensor Plug-In Night Lights (4-pack) — about $22.** A warm, dimmable glow that switches itself on when someone walks by — and because they plug in, there are no batteries to change, ever.
+4. **VELCRO Brand ONE-WRAP Cable Ties (50-pack) — about $8.** The real brand, reusable over and over — this one pack is the whole cable-tamer kit for the price of a coffee.
+5. **RovyVon Aurora A1 Keychain Flashlight — about $28 (often around $20 on sale).** Thumb-size, USB-C rechargeable, and up to 650 lumens — brighter than flashlights ten times its size.
+6. **Lamicall Gooseneck Phone Holder — about $20.** The clamp actually grips and the arm actually stays where you bend it — the two things the $10 copies get wrong.
+
+### Under $50
+
+1. **ESR 3-in-1 Magnetic Charging Station (15W) — about $36.** Phone, watch, and earbuds on one nightstand stand — and the watch charger pops out to take on trips.
+2. **JBL Go 4 Portable Bluetooth Speaker — about $50 (around $32 in the holiday sales).** Pocket-size, fully waterproof (IP67), and sounds far bigger than it looks.
+3. **Frameo 10.1-Inch Wi-Fi Digital Photo Frame — about $50–60.** The whole family sends photos straight to it from the free Frameo app; look for the 32GB version with the 1280×800 touchscreen.
+4. **TP-Link Kasa Smart Plug Mini (EP10), 4-pack — about $30 (often around $22 on sale).** No hub box needed, schedules run right from the app, and it works with Alexa and Google.
+5. **Anker Soundcore P40i Wireless Earbuds — about $45 (list price $80 — it's on sale most of the time).** Real noise cancelling that actually works at this price, and the charging case doubles as a phone stand.
+6. **JALL Sunrise Alarm Clock (Wake Up Light) — about $33.** A gradual sunrise with a backup sound alarm for heavy sleepers — and no app, no account, no subscription.
+
+### Splurge
+
+1. **Kindle Paperwhite (2024) — $160 list, about $130 in the Black Friday sales.** Amazon replaced it with a newer model this fall, which makes this one the smart buy: the same glare-free, paper-like screen, waterproof, with weeks of battery per charge.
+2. **Roborock Q7 M5+ Robot Vacuum — about $250.** It maps your rooms with LiDAR, so it cleans in neat rows instead of bouncing around — and the self-empty dock means pet hair gets handled daily without anyone lifting a finger.
+3. **Sony WH-1000XM5 Noise-Cancelling Headphones — $399 list, about $170–200 in the Black Friday sales.** Still the noise cancelling to beat, and now at last-generation prices because the newer XM6 is out.
+4. **Ring Battery Doorbell — about $100.** A two-minute install with no wiring. The honest cost note: live view and alerts are free, but saving video clips takes the Ring Solo plan at $4.99/month or $49.99/year — know that before you gift it.
 
 ---
 
