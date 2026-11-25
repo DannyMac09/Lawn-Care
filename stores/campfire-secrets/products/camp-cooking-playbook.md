@@ -166,7 +166,7 @@ This plan is built for evenings around the fire: dinner cooked over coals, lunch
 
 **Snacks:** Hard-boiled eggs (2), cheese sticks, granola bars.
 
-**Dinner (campfire, ~90 min):** Dutch oven chili (Chapter 2) — brown the meat, lid on, 45–60 minutes over ~350°F coals. While it cooks, make the cobbler... no wait, save the cobbler for Day 3. Cornbread: pour cornbread batter into a greased, preheated cast iron skillet, set it on the grate over medium coals, cover with foil, 20 minutes. Serve chili in bowls with cornbread.
+**Dinner (campfire, ~90 min):** Dutch oven chili (Chapter 2) — brown the meat, lid on, 45–60 minutes over ~350°F coals. While it cooks, mix the cornbread: pour cornbread batter into a greased, preheated cast iron skillet, set it on the grate over medium coals, cover with foil, 20 minutes. Serve chili in bowls with cornbread.
 
 ### Day 3
 
@@ -389,7 +389,7 @@ Found rust? It's not dead. Scrub the rust off with steel wool or a stiff brush u
 - **Core cookware:** 12" cast iron skillet, 6-qt Dutch oven, 4-qt pot
 - **Hand test:** 2–3 sec = high (~450°F+), 4–5 sec = medium (~350–400°F), 6–7 sec = low (~300°F)
 - **Safe internal temps:** ground beef 160°F, chicken 165°F, steaks 145°F
-- **Dutch oven 12" coals:** 325°F = 8 under / 14 lid; 350°F = 9 under / 16 lid; 375°F = 10 under / 16 lid
+- **Dutch oven 12" coals:** 325°F = 8 under / 14 lid; 350°F = 9 under / 15 lid; 375°F = 10 under / 16 lid
 - **Foil packets:** heavy-duty foil, crimp sealed, 20–30 min on medium coals; flip once
 - **Cooler:** below 40°F; pre-chill; block ice bottom, cubes top; drinks in a separate cooler
 - **2-hour rule:** perishables out 2 hours max (1 hour above 90°F); leftovers to 165°F when reheating
