@@ -36,6 +36,30 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Free scorecard pack banner */}
+      <section className="mx-auto max-w-6xl px-6 pt-14">
+        <div className="flex flex-col items-center justify-between gap-4 rounded-2xl bg-green-900 px-8 py-8 text-center sm:flex-row sm:text-left">
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-widest text-lime-300">
+              Free download
+            </p>
+            <h2 className="mt-1 text-2xl font-bold text-white">
+              FREE Scorecard Pack — built for big groups
+            </h2>
+            <p className="mt-1 max-w-xl text-green-100">
+              9-hole, 18-hole, and skins cards with room for up to 24
+              players. Print them and play — no email needed.
+            </p>
+          </div>
+          <Link
+            href="/free-scorecards"
+            className="shrink-0 rounded-lg bg-lime-400 px-6 py-3 font-semibold text-green-950 transition hover:bg-lime-300"
+          >
+            Get the free pack
+          </Link>
+        </div>
+      </section>
+
       {/* Featured products */}
       <section className="mx-auto max-w-6xl px-6 py-14">
         <h2 className="text-2xl font-bold text-green-950 sm:text-3xl">
