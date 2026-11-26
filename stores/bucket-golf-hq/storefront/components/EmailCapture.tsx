@@ -12,11 +12,13 @@ export default function EmailCapture() {
   async function onSubmit(e: React.FormEvent) {
     e.preventDefault();
     setStatus("sending");
+    const src =
+      new URLSearchParams(window.location.search).get("src") ?? "web";
     try {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name, email }),
+        body: JSON.stringify({ name, email, src }),
       });
       if (!res.ok) throw new Error("subscribe failed");
       setStatus("done");

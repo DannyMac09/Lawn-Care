@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import ProductCard from "@/components/ProductCard";
+import ScorecardGate from "@/components/ScorecardGate";
 import { products } from "@/lib/products";
 
 export const metadata: Metadata = {
@@ -48,18 +49,8 @@ export default function FreeScorecardsPage() {
           than that. Print a stack of these — 9-hole, 18-hole, and skins
           cards sized for real groups — and keep score like you mean it.
         </p>
-        <div className="mt-8">
-          <a
-            href="/downloads/free-scorecard-pack.pdf"
-            download
-            className="inline-block rounded-lg bg-lime-400 px-10 py-4 text-lg font-bold text-green-950 transition hover:bg-lime-300"
-          >
-            ⬇ Download the free pack (PDF)
-          </a>
-          <p className="mt-3 text-sm text-green-200">
-            6 pages · Print on letter paper, scorecards in landscape · No
-            email needed, no catch
-          </p>
+        <div className="mt-8" id="get-the-pack">
+          <ScorecardGate />
         </div>
       </section>
 
@@ -83,8 +74,7 @@ export default function FreeScorecardsPage() {
         </div>
         <div className="mt-10 text-center">
           <a
-            href="/downloads/free-scorecard-pack.pdf"
-            download
+            href="#get-the-pack"
             className="inline-block rounded-lg bg-green-800 px-8 py-3 font-semibold text-white transition hover:bg-green-900"
           >
             Get the free scorecards
